@@ -1,5 +1,12 @@
 # openclaw-skill--
 🎓 Gaokao-English-Helper: An OpenClaw skill tailored for Chinese high school seniors. 自动过滤无用字典释义，一键提取高考大纲词义、高频考试搭配及历年真题语境例句。AI 赋能，让备考效率翻倍。
+## 📦 如何安装 (Installation)
+
+无需繁杂的配置，只需在你的 Telegram 机器人聊天框，或者 OpenClaw 的终端后台，直接发送以下一键安装命令：
+
+`/install https://github.com/yuyiris/openclaw-skill--`
+
+*(提示：安装成功后，系统会自动重载，直接发送测试指令即可使用！)*
 ## 🤝 致谢与声明 (Acknowledgments)
 
 * 💡 **需求构思与产品设计**：[Yuyi] 
